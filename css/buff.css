@@ -1,0 +1,22 @@
+body {
+    background-color:black;
+}
+div{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 17%;
+    margin-left: 17%;
+}
+p {
+    font-size: 21px;
+}
+h1 {
+    font-size: 50px;
+    color: aqua;
+}
+ul {
+    font-size: 19px;
+}
+table {
+    width:100%;
+}
