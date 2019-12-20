@@ -4,8 +4,8 @@ body {
 div{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    margin-right: 17%;
-    margin-left: 17%;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 p {
     font-size: 21px;
@@ -17,6 +17,15 @@ h1 {
 ul {
     font-size: 19px;
 }
-table {
-    width:100%;
+img {
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    border-radius: 20px;
 }
+table, th, td {
+    border: 1px solid aqua;
+  }
+  th, td {
+    padding: 15px;
+  }
