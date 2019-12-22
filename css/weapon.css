@@ -1,0 +1,36 @@
+table {
+    width: 100%;
+}
+img {
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    border-radius: 20px;
+    height: 100px;
+    width: 100px;
+}
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+h1 {
+    color: aqua;
+    font-size: 50px;
+}
+div {
+    color: white;
+}
+table, th, td {
+    border: 1px solid aqua;
+}
+th, td {
+    padding: 15px;
+}
+p {
+    font-size: 21px;
+}
+ul {
+    font-size: 19px;
+}
