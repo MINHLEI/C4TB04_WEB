@@ -1,0 +1,24 @@
+
+.container-footer {
+    display: grid;
+    grid-gap: 50px 20px;
+    grid-template-columns: auto auto auto;
+    background-color: black;
+}
+.container-footer > div {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    
+}
+.lifooter {
+    list-style-type: none;
+    text-decoration: none;
+    color: aqua;
+}
+#fbdev {
+    text-decoration: none;
+    color: blue;
+}
