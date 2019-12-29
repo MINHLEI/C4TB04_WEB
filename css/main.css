@@ -38,3 +38,8 @@ body {
     color: chartreuse;
     font-size: 30px;
 }
+.scdtext {
+    color:red;
+    text-align: center;
+    font-size: 25px;
+}
