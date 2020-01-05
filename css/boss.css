@@ -28,4 +28,63 @@ body{
     font-size: 23px;
 }
 
+.container-footer {
+    display: grid;
+    grid-gap: 50px 20px;
+    grid-template-columns: auto auto auto;
+    background-color: black;
+}
+.container-footer > div {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    
+}
+.lifooter {
+    list-style-type: none;
+    text-decoration: none;
+    color: aqua;
+}
+#fbdev {
+    text-decoration: none;
+    color: blue;
+}
+.redirect-bar li {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    white-space: nowrap;
+    list-style: outside none none;
+    display: inline-block;
+    width: 300px;
+    list-style-type: none;
+
+}
+.redirect {
+    text-align: center;
+    font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: steelblue;
+    font-weight: 400;
+}
+.top-panel {
+    background-color: black;
+}
+.header1 {
+    color: darkblue;
+    
+    display: inline;
+}
+.black-background {
+    display: flex;
+    align-items: center;
+    margin-left: 75px;
+}
+
 
