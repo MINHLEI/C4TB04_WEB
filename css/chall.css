@@ -1,5 +1,6 @@
 body{
     background-image: url("http://getwallpapers.com/wallpaper/full/6/c/4/1391985-download-free-dark-background-images-1920x1080-ipad-pro.jpg");
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .h1{
@@ -17,7 +18,7 @@ body{
 
 .img{
     image-rendering: pixelated;
-    margin-left: 3cm;
+    margin-left: 8cm;
     width: 50%;
     height: auto;
     margin-bottom: 3cm;
