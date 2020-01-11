@@ -90,3 +90,7 @@ th, td {
     align-items: center;
     margin-left: 75px;
 }
+#headerlogo1 {
+    border-style: none;
+    border-radius: 0px;
+}
