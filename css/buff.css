@@ -88,3 +88,10 @@ th, td {
     text-decoration: none;
     color: blue;
 }
+#headerlogo1 {
+    border-style: none;
+}
+.footerlogo {
+    border-style: none;
+    border-radius: 0px;
+}

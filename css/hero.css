@@ -84,3 +84,6 @@ body{
     font-size: 23px;
     margin-right: 5cm;
 }
+#headerlogo1 {
+    border-radius: 20px;
+}

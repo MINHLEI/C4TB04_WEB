@@ -103,3 +103,7 @@ th, td {
     align-items: center;
     margin-left: 75px;
 }
+#headerlogo1 {
+    border-radius: 20px;
+}
+

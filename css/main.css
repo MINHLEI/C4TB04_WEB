@@ -105,3 +105,6 @@ div {
     text-decoration: none;
     color: blue;
 }
+#headerlogo1 {
+    border-radius: 20px;
+}
